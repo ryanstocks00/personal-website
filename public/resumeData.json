@@ -35,7 +35,7 @@
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "I am proficient in numerous programming languages, in particular python and C/C++, with additional experience using ARM Assembly, Ada, Java, HTML, CSS, JavaScript, Haskell, Q# and Bash. I am experienced with industrial software development with version control systems such as git including continuous integration and project management tools such as Jira and Confluence.I also have significant experience utilizing high performance computing (HPC) and massively parallel systems such as the Gadi supercomputer at NCI using programming models including MPI and OpenMP. Also experienced programming utilizing multi-GPU hardware using low level libraries such as CUDA",
         "education": [
             {
                 "school": "Australian National University",
