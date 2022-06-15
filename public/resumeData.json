@@ -1,0 +1,100 @@
+{
+    "main": {
+        "name": "Ryan Stocks",
+        "occupation": "Researcher / Software Engineer",
+        "description": ", currently employed part time by Penten and the ANU where I live, breathe, and teach the art of software.",
+        "image": "profilepic.jpg",
+        "bio": "I am currently undertaking my fourth year of a Bachelor of Philosophy degree at the Australian National University majoring in computer science with a strong interest in High-Performance Computing. I have liked working at the interface of computing and the physical sciences and enjoy the occasional maths problem. In my spare time I can often be found in the bush running/hiking/cycling or tinkering with various projects (such as this one)",
+        "contactmessage": "Feel free to reach out anytime by email or phone",
+        "email": "ryan.stocks00@gmail.com",
+        "phone": "+61 413 449 372",
+        "address": {
+            "street": "",
+            "city": "Canberra",
+            "state": "ACT",
+            "zip": "2614"
+        },
+        "website": "http://www.ryan-stocks.com",
+        "resumedownload": "http://www.ryan-stocks.com/resume",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "http://facebook.com/ryan.stocks.1069",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/ryan-stocks/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/ryanstocks00",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "Australian National University",
+                "degree": "Bachelor of Philosophy - Science (Honours)",
+                "graduated": "June 2023",
+                "description": "Majoring in computer science with minors in Physics and Mathematics."
+            },
+            {
+                "school": "Radford College",
+                "degree": "High School / College",
+                "graduated": "December 2018",
+                "description": ""
+            }
+        ],
+        "work": [
+            {
+                "company": "Penten",
+                "title": "Software Engineer",
+                "years": "November 2020 - Present",
+                "description": ""
+            },
+            {
+                "company": "Australian National University",
+                "title": "Computer Science Tutor and Computing Research Assistant",
+                "years": "December 2018 - Present",
+                "description": "I have tutored a variety of university computing courses including: \n- COMP1100/1130 - Programming as problem solving\n- COMP 1110/1140 - Structured Programming\n- COMP2300 - Computer organisation and program execution\n- COMP3320 - High Performance Scientific Computing\n- COMP3600 - Algorithms\n- COMP3620 - Artificial Intelligence\n- COMP4300 - Parallel Systems\n\nIn addition I have worked as a research assistant on multiple projects developing code for a global search of pumped hydro energy storage sites and developing algorithms to control a swarm of UAVs for lightning strike ignition detection and suppression as part of the ANU Bushfire Initiative"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "90%"
+            },
+            {
+                "name": "C/C++",
+                "level": "80%"
+            },
+            {
+                "name": "OpenMP / MPI / Cuda HPC Software",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Global pumped hydro energy storage search",
+                "category": "High performance software developed for the search of potential PHES sites around the world",
+                "image": "PHES.gif",
+                "url": "http://re100.eng.anu.edu.au/global/index.php"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "",
+                "user": ""
+            }
+        ]
+    }
+}
