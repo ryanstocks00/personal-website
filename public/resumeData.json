@@ -15,7 +15,7 @@
             "zip": "2614"
         },
         "website": "http://www.ryan-stocks.com",
-        "resumedownload": "http://www.ryan-stocks.com/resume",
+        "resumedownload": "/resume.pdf",
         "social": [
             {
                 "name": "facebook",
