@@ -68,9 +68,9 @@ class Contact extends Component {
                             </fieldset>
                         </form>
 
-                        <div id="message-warning"> Error boy</div>
+                        <div id="message-warning"> Error - the full moon is against you and your message could not be sent. Please contact me by email or phone.</div>
                         <div id="message-success">
-                            <i className="fa fa-check"></i>Your message was sent, thank you!<br />
+                            <i className="fa fa-check"></i>Your message was sent, thank you! I'll be in touch soon.<br />
                         </div>
                     </div>
 

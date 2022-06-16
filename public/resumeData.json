@@ -4,7 +4,7 @@
         "occupation": "Researcher / Software Engineer",
         "description": ", currently employed part time by Penten and the ANU where I live, breathe, and teach the art of code and optimization.",
         "image": "profilepic.jpg",
-        "bio": "I am currently undertaking my fourth year of a Bachelor of Philosophy degree at the Australian National University majoring in computer science with a strong interest in High-Performance Computing. I have liked working at the interface of computing and the physical sciences and enjoy the occasional maths problem. In my spare time I can often be found in the bush running/hiking/cycling or tinkering with various projects (such as this one)",
+        "bio": "I am currently undertaking my fourth year of a Bachelor of Philosophy degree at the Australian National University majoring in computer science with a strong interest in High-Performance Computing. I have liked working at the interface of computing and the physical sciences and enjoy the occasional maths problem. In my spare time I can often be found tinkering with various projects (such as this one) or running/adventuring in the bush.",
         "contactmessage": "Feel free to reach out anytime by email or phone",
         "email": "ryan.stocks00@gmail.com",
         "phone": "+61 413 449 372",
@@ -35,7 +35,7 @@
         ]
     },
     "resume": {
-        "skillmessage": "I am proficient in numerous programming languages, in particular python and C/C++, with additional experience using ARM Assembly, Ada, Java, HTML, CSS, JavaScript, Haskell, Q# and Bash. I am experienced with industrial software development with version control systems such as git including continuous integration and project management tools such as Jira and Confluence.I also have significant experience utilizing high performance computing (HPC) and massively parallel systems such as the Gadi supercomputer at NCI using programming models including MPI and OpenMP. Also experienced programming utilizing multi-GPU hardware using low level libraries such as CUDA",
+        "skillmessage": "I am proficient in numerous programming languages, in particular python and C/C++, with additional experience using ARM Assembly, Ada, Java, HTML, CSS, JavaScript, Haskell, Q# and Bash. I am experienced with industrial software development with version control systems such as git including continuous integration and project management tools such as Jira and Confluence.I also have significant experience using high performance computing (HPC) and massively parallel systems such as the Gadi supercomputer at NCI using programming models including MPI and OpenMP. Also experienced programming utilizing multi-GPU hardware using low level libraries such as CUDA",
         "education": [
             {
                 "school": "Australian National University",
@@ -61,7 +61,7 @@
                 "company": "Australian National University",
                 "title": "Computer Science Tutor and Computing Research Assistant",
                 "years": "December 2018 - Present",
-                "description": "I have tutored a variety of university computing courses including: \n- COMP1100/1130 - Programming as problem solving\n- COMP 1110/1140 - Structured Programming\n- COMP2300 - Computer organisation and program execution\n- COMP3320 - High Performance Scientific Computing\n- COMP3600 - Algorithms\n- COMP3620 - Artificial Intelligence\n- COMP4300 - Parallel Systems\n\nIn addition I have worked as a research assistant on multiple projects developing code for a global search of pumped hydro energy storage sites and developing algorithms to control a swarm of UAVs for lightning strike ignition detection and suppression as part of the ANU Bushfire Initiative"
+                "description": "I have tutored a variety of university computing courses including: \n- COMP1100/1130 - Programming as problem solving\n- COMP1110/1140 - Structured Programming\n- COMP2300 - Computer organisation and program execution\n- COMP3320 - High Performance Scientific Computing\n- COMP3600 - Algorithms\n- COMP3620 - Artificial Intelligence\n- COMP4300 - Parallel Systems\n\nIn addition I have worked as a research assistant on multiple projects developing code for a global search of pumped hydro energy storage sites and developing algorithms to control a swarm of UAVs for lightning strike ignition detection and suppression as part of the ANU Bushfire Initiative"
             }
         ],
         "skills": [
@@ -92,8 +92,8 @@
     "testimonials": {
         "testimonials": [
             {
-                "text": "",
-                "user": ""
+                "text": "If you can't explain it simply, you don't understand it well enough.",
+                "user": "Albert Einstein"
             }
         ]
     }
