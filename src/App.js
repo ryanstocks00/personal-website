@@ -151,7 +151,7 @@ class App extends Component {
       $.ajax({
 
 	      type: "POST",
-	      url: "/api/send_email",
+	      url: process.env.API_URL+"/api/send_email",
           data: JSON.stringify(data),
           dataType: "json",
           contentType: "application/json",

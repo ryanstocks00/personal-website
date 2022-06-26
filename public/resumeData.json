@@ -18,36 +18,51 @@
         "resumedownload": "/resume.pdf",
         "social": [
             {
-                "name": "facebook",
-                "url": "http://facebook.com/ryan.stocks.1069",
-                "className": "fa fa-facebook"
+                "name": "Google Scholar",
+                "url": "https://scholar.google.com.au/citations?user=sm4Ea8oAAAAJ&hl=en",
+                "className": "fa fa-graduation-cap"
             },
             {
-                "name": "linkedin",
+                "name": "Github",
+                "url": "http://github.com/ryanstocks00",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "LinkedIn",
                 "url": "https://www.linkedin.com/in/ryan-stocks/",
                 "className": "fa fa-linkedin"
             },
             {
-                "name": "github",
-                "url": "http://github.com/ryanstocks00",
-                "className": "fa fa-github"
+                "name": "Research Gate",
+                "url": "https://www.researchgate.net/profile/Ryan-Stocks",
+                "className": "fa-brands fa-researchgate"
+            },
+            {
+                "name": "Orcid",
+                "url": "https://orcid.org/0000-0003-0654-9670",
+                "className": "fa-brands fa-orcid"
+            },
+            {
+                "name": "Facebook",
+                "url": "http://facebook.com/ryan.stocks.1069",
+                "className": "fa fa-facebook"
             }
         ]
     },
     "resume": {
-        "skillmessage": "I am proficient in numerous programming languages, in particular python and C/C++, with additional experience using ARM Assembly, Ada, Java, HTML, CSS, JavaScript, Haskell, Q# and Bash. I am experienced with industrial software development with version control systems such as git including continuous integration and project management tools such as Jira and Confluence.I also have significant experience using high performance computing (HPC) and massively parallel systems such as the Gadi supercomputer at NCI using programming models including MPI and OpenMP. Also experienced programming utilizing multi-GPU hardware using low level libraries such as CUDA",
+        "skillmessage": "I am proficient in numerous programming languages, in particular python and C/C++, with additional experience using ARM Assembly, Ada, Java, HTML, CSS, JavaScript, Haskell, Q# and Bash. I also have significant experience using high performance computing (HPC) infrastructure and massively parallel systems using programming models including MPI and OpenMP. I have experience optimizing software for many-GPU hardware using low level libraries such as CUDA. In addition I make extensive use of version control systems such as git including continuous integration and project management tools such as Jira and Confluence.",
         "education": [
             {
                 "school": "Australian National University",
                 "degree": "Bachelor of Philosophy - Science (Honours)",
-                "graduated": "June 2023",
-                "description": "Majoring in computer science with minors in Physics and Mathematics."
+                "graduated": "Jan 2019 - June 2023",
+                "description": "Major in computer science with minors in Physics and Mathematics.\nGPA 7.0/7.0\nDean’s Science Education Commendation Award."
             },
             {
                 "school": "Radford College",
                 "degree": "High School / College",
-                "graduated": "December 2018",
-                "description": ""
+                "graduated": "2013 - 2018",
+                "description": "College dux with subject awards (highest mark) in Specialist Maths, Specialist Methods, Physics, IT (Programming) and Technical Theatre"
             }
         ],
         "work": [
@@ -55,27 +70,24 @@
                 "company": "Penten",
                 "title": "Software Engineer",
                 "years": "November 2020 - Present",
-                "description": ""
+                "description": "Working with the Applied AI group at Penten developing advanced cyber deception tools and software. This includes using natural language processing (NLP) techniques and GPT-2 to generate fake documents (honey files) and deception agents/services."
             },
             {
                 "company": "Australian National University",
                 "title": "Computer Science Tutor and Computing Research Assistant",
                 "years": "December 2018 - Present",
-                "description": "I have tutored a variety of university computing courses including: \n- COMP1100/1130 - Programming as problem solving\n- COMP1110/1140 - Structured Programming\n- COMP2300 - Computer organisation and program execution\n- COMP3320 - High Performance Scientific Computing\n- COMP3600 - Algorithms\n- COMP3620 - Artificial Intelligence\n- COMP4300 - Parallel Systems\n\nIn addition I have worked as a research assistant on multiple projects developing code for a global search of pumped hydro energy storage sites and developing algorithms to control a swarm of UAVs for lightning strike ignition detection and suppression as part of the ANU Bushfire Initiative"
+                "description": "I have tutored a variety of university computing courses including: \n• COMP1100/1130 — Programming as problem solving\n• COMP1110/1140 — Structured Programming\n• COMP2300 — Computer organisation and program execution\n• COMP3320 — High Performance Scientific Computing\n• COMP3600 — Algorithms\n• COMP3620 — Artificial Intelligence\n• COMP4300 — Parallel Systems\n\nIn addition I have worked as a research assistant on multiple projects developing code for a global search of pumped hydro energy storage sites and developing algorithms to control a swarm of UAVs for lightning strike ignition detection and suppression as part of the ANU Bushfire Initiative"
             }
         ],
-        "skills": [
+        "Publications": [
             {
-                "name": "Python",
-                "level": "90%"
+                "name": "Enabling large-scale correlated electronic structure calculations: scaling the RI-MP2 method on summit",
+                "description": "Giuseppe MJ Barca et. al. 33rd International Conference for High Performance Computing, Networking, Storage and Analysis: Science and Beyond, SC 2021.",
+                "doi": "10.1145/3458817.3476222",
+                "url": "https://dl.acm.org/doi/abs/10.1145/3458817.3476222"
             },
             {
-                "name": "C/C++",
-                "level": "80%"
-            },
-            {
-                "name": "OpenMP / MPI / Cuda HPC Software",
-                "level": "80%"
+                "name": "OpenMP / MPI / Cuda HPC Software"
             }
         ]
     },
@@ -86,6 +98,26 @@
                 "category": "High performance software developed for the search of potential PHES sites around the world",
                 "image": "PHES.gif",
                 "url": "http://re100.eng.anu.edu.au/global/index.php"
+            }
+        ],
+        "projects": [
+            {
+                "title": "Global pumped hydro energy storage search",
+                "category": "High performance software developed for the search of potential PHES sites around the world",
+                "image": "PHES.gif",
+                "url": "http://re100.eng.anu.edu.au/global/index.php"
+            },
+            {
+                "title": "Positron scattering from ethane",
+                "category": "",
+                "image": "positron-beam.jpg",
+                "url": "/positron-scattering-from-ethane.pdf"
+            }
+        ],
+        "awards": [
+            {
+                "title": "International Mathematical Modelling Competition – 1st (Outstanding award)",
+                "date": "2018"
             }
         ]
     },
