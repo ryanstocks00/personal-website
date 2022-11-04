@@ -10,7 +10,7 @@ import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
 
-class App extends Component {
+class Home extends Component {
 
   constructor(props){
     super(props);
@@ -181,7 +181,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <div className="Home">
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
@@ -194,4 +194,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Home;
